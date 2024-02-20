@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi , I'm Santiago Sanchez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**santiagosanchez-ss/santiagosanchez-ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :technologist: I love using Software as a solution for every `Problem`.
+- :computer: I am a competitive programmer at `NestJs`, `Express`, `JavaScript`, `MySQL`, `APIRest`.
+- :student: I’m currently learning `Java` and `Inglish`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`, this is my Linkedin (https://www.linkedin.com/in/santiagosanchezss/).
+- :boom: You can contact me s.sanchez2002@hotmail.com.
+<br>
+
+<p> Tecnologies that I know <p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,html,js,nodejs,express,github,java,mongodb,mysql,postman,vscode,discordintelliji&perline=14" />
+  </a>
+</p>
