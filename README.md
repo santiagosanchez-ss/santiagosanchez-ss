@@ -4,8 +4,8 @@
 
 
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `NestJs`, `Express`, `JavaScript`, `MySQL`, `APIRest`.
-- :student: I’m currently learning `Java` and `Inglish`.
+- :computer: I am a competitive programmer at `C# .NET`.
+- :student: I’m currently learning `Inglish`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is my Linkedin (https://www.linkedin.com/in/santiagosanchezss/).
 - :boom: You can contact me s.sanchez2002@hotmail.com.
