@@ -14,6 +14,6 @@
 <p> Tecnologies that I know <p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,html,js,nodejs,express,github,java,mongodb,mysql,postman,vscode,idea,discordintelliji&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github,css,html,js,nodejs,express,postman,visualstudio,vscode,discordintelliji&perline=14" />
   </a>
 </p>
