@@ -1,19 +1,26 @@
-<h1 align="center">Hi , I'm Santiago Sanchez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  Hi, I'm Santiago Sanchez 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
 <br><br>
 
+- 🎓 University student in Software Development / Computer Science
+- 💻 Passionate about building software that solves real-world problems
+- 🧠 Interested in backend development, databases and system design
+- 🚀 Always learning and improving my technical skills
+- 📚 Currently improving my English and expanding my knowledge in software architecture
+- 🌱 Open to internships and job opportunities
 
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a  programmer at `C# .NET`.
-- :student: I’m currently learning `Inglish`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is my Linkedin (https://www.linkedin.com/in/santiagosanchezss/).
-- :boom: You can contact me s.sanchez2002@hotmail.com.
+- 🔗 Linkedin: https://www.linkedin.com/in/santiagosanchezss/
+- 📩 Contact: s.sanchez2002@hotmail.com
+
 <br>
 
-<p> Tecnologies that I know <p>
+<p>Technologies I have worked with</p>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github,css,html,js,nodejs,express,postman,visualstudio,vscode,discordintelliji&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,sqlserver,mysql,git,github,postman,visualstudio,vscode&perline=12" />
   </a>
 </p>
